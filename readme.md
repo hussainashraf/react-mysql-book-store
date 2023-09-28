@@ -1,5 +1,3 @@
-Certainly! Here's a simplified version of the README template that you can copy and paste. Replace the placeholders with your specific details.
-
 ```markdown
 # Simple Book Store App
 
